@@ -1,0 +1,44 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "KEGR33YZEW.com.bluebeartech.Wordly"
+        ],
+        "components": [
+          {
+            "/": "/wordly/*",
+            "comment": "Matches any URL whose path starts with /wordly/"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "KEGR33YZEW.ie.bluebear.pizza",
+      "KEGR33YZEW.ie.bluebear.avocadotoast",
+      "KEGR33YZEW.com.bluebeartech.gingerbreadfunlite",
+      "KEGR33YZEW.com.bluebeartech.makesodafree",
+      "KEGR33YZEW.ie.bluebear.cupcakeslite",
+      "KEGR33YZEW.com.bluebeartech.corndogs",
+      "KEGR33YZEW.com.bluebeartech.cottoncandy",
+      "KEGR33YZEW.ie.bluebear.lollipopsfree",
+      "KEGR33YZEW.ie.bluebear.donutsfree",
+      "KEGR33YZEW.ie.bluebear.makechocpizza",
+      "KEGR33YZEW.ie.bluebear.snowconesfree",
+      "KEGR33YZEW.ie.bluebear.slushiesfree",
+      "KEGR33YZEW.ie.bluebear.frozentreatmaker",
+      "KEGR33YZEW.ie.bluebear.picnmixfree",
+      "KEGR33YZEW.ie.bluebear.makechociap",
+      "KEGR33YZEW.ie.bluebear.cake",
+      "KEGR33YZEW.ie.bluebear.popcorn",
+      "KEGR33YZEW.ie.bluebear.hotdogs",
+      "KEGR33YZEW.com.bluebeartech.marshmallow",
+      "KEGR33YZEW.com.bluebeartech.icepops",
+      "KEGR33YZEW.ie.bluebear.cookiemaker",
+      "KEGR33YZEW.ie.bluebear.cakepopsfree",
+      "KEGR33YZEW.ie.bluebear.milkshakeslite"
+    ]
+  }
+}
