@@ -1,18 +1,12 @@
 {
   "applinks": {
-    "details": [
-      {
-        "appIDs": [
-          "KEGR33YZEW.com.bluebeartech.Wordly"
-        ],
-        "components": [
-          {
-            "/": "/wordly/*",
-            "comment": "Matches any URL whose path starts with /wordly/"
-          }
+        "apps": [],
+        "details": [
+            {
+                "appID": "KEGR33YZEW.com.bluebeartech.Wordly",
+                "paths": [ "/wordly/*" ]
+            }
         ]
-      }
-    ]
   },
   "webcredentials": {
     "apps": [
